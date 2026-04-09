@@ -1,6 +1,6 @@
 # PaperBeam – VitePress Lab (Lab 07-08)
 
-A documentation site built with [VitePress](https://vitepress.dev/) for the fictional web technology **PaperBeam**, featuring the Flextext content system.
+A documentation site built with [VitePress](https://vitepress.dev/) for the fictional web technology **PaperBeam**
 
 ## About
 
