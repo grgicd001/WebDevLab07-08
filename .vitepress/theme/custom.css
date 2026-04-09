@@ -10,3 +10,15 @@
   --vp-button-alt-hover-border: #ee9bdd;
   --vp-button-alt-hover-text: black;
 }
+
+.VPNavBarAppearance {
+  display: flex !important;
+}
+
+.VPNavBarExtra {
+  display: none !important;
+}
+
+.VPNavBarSocialLinks {
+  display: flex !important;
+}

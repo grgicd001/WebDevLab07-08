@@ -5,6 +5,9 @@ export default defineConfig({
   description: "Now with Flextext",
   themeConfig: {
     logo: '/logo.png',
+    socialLinks: [
+    { icon: 'github', link: 'https://github.com/grgicd001/WebDevLab07-08' }
+    ],
     nav: [
       { text: 'Products', link: '/products' },
       { text: 'API', link: '/api' },
