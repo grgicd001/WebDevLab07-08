@@ -1,0 +1,12 @@
+:root {
+  --vp-button-brand-bg: #13b38e;
+  --vp-button-brand-hover-bg: #0f9a78;
+  --vp-button-brand-border: #13b38e;
+  --vp-button-brand-hover-border: #0f9a78;
+}
+
+:root {
+  --vp-button-alt-hover-bg: #ee9bdd;
+  --vp-button-alt-hover-border: #ee9bdd;
+  --vp-button-alt-hover-text: black;
+}
